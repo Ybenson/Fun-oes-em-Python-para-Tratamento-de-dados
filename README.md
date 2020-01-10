@@ -1,2 +1,2 @@
-# Funoes-em-Python-para-Tratamento-de-dados
+# Funcoes-em-Python-para-Tratamento-de-dados
 Modulo das funçoes
